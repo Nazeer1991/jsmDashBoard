@@ -640,7 +640,7 @@ export const chatData = [
   },
   {
     image: avatar,
-    message: "Jolly completed tasks",
+    message: "Nazeer completed tasks",
     desc: "Assign her new tasks",
     time: "1:12 AM",
   },
